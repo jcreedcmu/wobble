@@ -1,0 +1,15 @@
+{
+  "name": "wobble",
+  "version": "1.0.0",
+  "description": "wobble",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jason Reed <jcreed@gmail.com>",
+  "dependencies": {
+    "express": "^4.14.0",
+    "ws": "^1.1.1"
+  }
+}
