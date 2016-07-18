@@ -20,4 +20,4 @@ node server.js
 ```
 and opened a browser to `http://192.168.0.4:4080/host.html`
 
-On each cellphone I went to `http://192.168.0.4:4080'
+On each cellphone I went to `http://192.168.0.4:4080`
